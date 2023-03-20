@@ -1,0 +1,48 @@
+div.container {
+    color: royalblue;
+    height: 1200px;
+    width: 1200px;
+    background-color: black;
+}
+
+nav.head {
+    height: 140px;
+    width: 1200px;
+    text-align: center;
+    display: grid;
+    background-image:url("https://media.licdn.com/dms/image/C4E16AQH88aCjs--ShQ/profile-displaybackgroundimage-shrink_350_1400/0/1627143453257?e=1684972800&v=beta&t=is9HIcQmtxO6GEzS4eDR-GMGi1Cx9VoDwP04VWLi8yw");
+  
+    
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    gap: 20px;
+   
+}
+
+
+
+/* nav h2.Title {
+   
+    height: 40px;
+    width: 200px;
+ 
+  
+
+}
+
+nav h2.Home {
+   
+    height: 40px;
+    width: 200px;
+   
+  
+
+}
+
+nav h2.About {
+   
+    height: 40px;
+    width: 200px;
+
+  
+
+} */
